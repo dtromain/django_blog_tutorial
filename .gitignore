@@ -256,3 +256,5 @@ fabric.properties
 # End of https://www.gitignore.io/api/python,django,pycharm
 
 .virtualenv
+
+/blog/migrations
