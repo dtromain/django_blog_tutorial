@@ -1,1 +1,1 @@
-# django_blog_tutorial
+# django_tutorial
